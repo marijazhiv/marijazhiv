@@ -73,6 +73,11 @@ I am a Student from Novi Sad, Serbia.
   <img src="https://img.shields.io/badge/WCF-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="WCF" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-0089D6?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white" alt="UML" />
 </p>
 
 
