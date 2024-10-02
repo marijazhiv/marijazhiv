@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 I am a Student from Novi Sad, Serbia.
 
 👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.  
-🔭 Exploring Artificial Intelligence and Machine Learning.  
+In addition to my studies, I enjoy working with various programming languages and tools, including Java, Python, and C#, and I actively participate in coding challenges and hackathons to enhance my skills. I’m also keen on cloud computing and DevOps practices, which I believe are essential in today’s software landscape.
+
+
+🔭 Exploring Artificial Intelligence and Machine Learning. 
+
+I look forward to connecting with like-minded individuals and exploring opportunities that allow me to grow and contribute to the tech community!
+  
  
 
 ## 🌐 My profiles  
