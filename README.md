@@ -69,6 +69,11 @@ I am a Student from Novi Sad, Serbia.
   <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Swing" />
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="Amazon DynamoDB" />
   <img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=aws-cdk&logoColor=white" alt="AWS CDK" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
+  <img src="https://img.shields.io/badge/WCF-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="WCF" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0089D6?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
 </p>
+
 
 
