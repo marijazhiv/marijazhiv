@@ -79,12 +79,16 @@ During my studies, as well as in my free time, I enjoy working with various prog
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
   <img src="https://img.shields.io/badge/WCF-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="WCF" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-0089D6?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white" alt="UML" />
+ <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="CNNs" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 
