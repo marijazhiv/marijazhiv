@@ -27,8 +27,8 @@ I look forward to connecting with like-minded individuals and exploring opportun
  
 
 ## 🌐 My profiles  
-- [LinkedIn](#)  
-- [Play Store](#)  
+- [LinkedIn]([#](https://www.linkedin.com/in/marija-%C5%BEivanovi%C4%87-9582a5330/))  
+ 
 
 ## 🛠 My Tech Stack
 
