@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👩‍💻 About Me
-I am a Student from Novi Sad, Serbia.
+Fourth-year student from Novi Sad, Serbia.
 
 👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.  
 
