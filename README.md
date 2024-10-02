@@ -22,8 +22,6 @@ During my studies, as well as in my free time, I enjoy working with various prog
 
 🔭 Exploring Artificial Intelligence and Machine Learning. 
 
-I look forward to connecting with like-minded individuals and exploring opportunities that allow me to grow and contribute to the tech community!
-  
  
 
 ## 🌐 My profiles  
