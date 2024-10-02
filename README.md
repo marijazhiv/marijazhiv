@@ -88,3 +88,7 @@ I look forward to connecting with like-minded individuals and exploring opportun
 
 
 
+![Marija Živanović's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marijazhiv&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marijazhiv&layout=compact&theme=radical)
+
+
