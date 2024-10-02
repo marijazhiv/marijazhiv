@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I am a Student from Novi Sad, Serbia.
 
 👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.  
-In addition to my studies, I enjoy working with various programming languages and tools, including Java, Python, and C#, and I actively participate in coding challenges and hackathons to enhance my skills. I’m also keen on cloud computing and DevOps practices, which I believe are essential in today’s software landscape.
 
+During my studies, as well as in my free time, I enjoy working with various programming languages and tools, including Java, Python, and C#. 
 
 🔭 Exploring Artificial Intelligence and Machine Learning. 
 
