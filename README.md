@@ -90,6 +90,7 @@ During my studies, as well as in my free time, I enjoy working with various prog
   <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="CNNs" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+ <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
 </p>
 
 
