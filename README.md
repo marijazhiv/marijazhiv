@@ -28,8 +28,7 @@ I am a Student from Novi Sad, Serbia.
 - Android Studio  
 - Java  
 - Unity  
-- C#  
-- Blender  
+- C#    
 - Python  
 - Git  
 - AWS
