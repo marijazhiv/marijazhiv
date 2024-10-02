@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👩‍💻 About Me
+I am a Student from Novi Sad, Serbia.
+
+👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.  
+🔭 Exploring Artificial Intelligence and Machine Learning.  
+⌛ In my free time I make Android apps and games.  
+
+## 🌐 My profiles  
+- [LinkedIn](#)  
+- [Play Store](#)  
+
+## 🛠 Favourite Languages and Tools  
+- Android Studio  
+- Java  
+- Unity  
+- C#  
+- Blender  
+- Python  
+- Git  
+- AWS
