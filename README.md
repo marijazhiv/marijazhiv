@@ -24,7 +24,7 @@ I am a Student from Novi Sad, Serbia.
 - [LinkedIn](#)  
 - [Play Store](#)  
 
-## 🛠 Favourite Languages and Tools
+## 🛠 My Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
