@@ -91,5 +91,8 @@ During my studies, as well as in my free time, I enjoy working with various prog
 
 ![Marija Živanović's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marijazhiv&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marijazhiv&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marijazhiv&show_icons=true&count_private=true&theme=radical)
+![Top Contributors](https://contrib.rocks/image?repo=marijazhiv/REPOSITORY_NAME)
+![Longest Streak](https://streak-stats.demolab.com/?user=marijazhiv)
 
 
