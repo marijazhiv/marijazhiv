@@ -27,7 +27,10 @@ I look forward to connecting with like-minded individuals and exploring opportun
  
 
 ## 🌐 My profiles  
-[![LinkedIn](<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />)](https://www.linkedin.com/in/marija-%C5%BEivanovi%C4%87-9582a5330/)
+<a href="https://www.linkedin.com/in/marija-%C5%BEivanovi%C4%87-9582a5330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
  
 
 ## 🛠 My Tech Stack
