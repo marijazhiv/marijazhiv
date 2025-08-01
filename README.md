@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
-Fourth-year student from Novi Sad, Serbia.
+# About Me 
 
-👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.  
+Fourth-year Software Engineering and Information Technologies student at the Faculty of Technical Sciences, University of Novi Sad, Serbia.
 
-During my studies, as well as in my free time, I enjoy working with various programming languages and tools, including Java, Python, C#,  C++, .NET, SQL, AWS, Angular and Spring Boot. 
+With hands-on experience in .NET, C#, JavaScript, Python, and Java. Proficient in developing scalable applications using Spring Boot, Angular, and AWS. Skilled in relational database management systems, including PostgreSQL, MySQL, Oracle SQL and H2.
 
 🔭 Exploring Artificial Intelligence and Machine Learning. 
 
