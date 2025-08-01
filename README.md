@@ -29,9 +29,3 @@ During my studies, as well as in my free time, I enjoy working with various prog
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
  
-![Marija Živanović's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marijazhiv&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marijazhiv&layout=compact&theme=radical)
-![Longest Streak](https://streak-stats.demolab.com/?user=marijazhiv&theme=radical)
-
-
-
