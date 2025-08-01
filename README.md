@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩‍💻 About Me
+# About Me
 Fourth-year student from Novi Sad, Serbia.
 
 👩‍🎓 I’m studying Software Engineering and Information Technologies at the Faculty of Technical Sciences.  
@@ -24,7 +24,7 @@ During my studies, as well as in my free time, I enjoy working with various prog
 
  
 
-## 🌐 My profiles  
+## My profiles  
 <a href="https://www.linkedin.com/in/marija-%C5%BEivanovi%C4%87-9582a5330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
